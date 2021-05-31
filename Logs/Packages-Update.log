@@ -1,0 +1,46 @@
+
+=== Thu May  6 22:24:14 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.timeline from version 1.4.6 to 1.4.7
+
+=== Tue May 11 21:49:37 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.timeline from version 1.4.6 to 1.4.7
+
+=== Wed May 12 18:23:05 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.timeline from version 1.4.6 to 1.4.7
+
+=== Fri May 14 16:13:10 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.2.2
+  com.unity.package-manager-ui@2.0.7
+  com.unity.purchasing@2.0.3
+
+=== Fri May 14 16:46:37 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.2.2
+  com.unity.package-manager-ui@2.0.7
+  com.unity.purchasing@2.0.3
